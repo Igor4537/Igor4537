@@ -6,4 +6,4 @@ studying at [Alura](https://www.alura.com.br)
 my [Instagram](https://www.instagram.com/igorzin.42/?utm_source=qr&r=nametag)
 
 
-{public static void main (String[] args)} {System.out.println("ola mundo")}
+[{public static void main (String[] args)} {System.out.println("ola mundo")}]
